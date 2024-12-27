@@ -2,6 +2,8 @@
 
 This repository contains a Convolutional Neural Network (CNN) implemented using the VGG16 architecture with PyTorch. The model is trained on a custom dataset and includes several important features to enhance performance and generalization.
 
+![new41](https://github.com/user-attachments/assets/159d6edc-9130-4719-bd90-ca2f013e83af)
+
 ## Key Features:
 - **VGG16 Architecture**: Utilizes a pre-trained VGG16 model as the base, with modifications to the fully connected layers for classification tasks.
 - **Learning Rate Decay**: Implements learning rate decay to improve training efficiency and avoid overfitting.
