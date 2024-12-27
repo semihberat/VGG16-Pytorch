@@ -26,5 +26,9 @@ This repository contains a Convolutional Neural Network (CNN) implemented using 
 - **Test Loss/Accuracy**: Assesses the model on unseen data.
 - **F1 Score**: Provides a balance between precision and recall.
 
+for more:
+
+https://www.kaggle.com/code/semihberaterdoan/computervisionassignment
+
 ## License:
 This project is licensed under the MIT License.
